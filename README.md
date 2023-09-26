@@ -20,6 +20,7 @@ License: Outdoor worker knowledge on ticks and Lyme disease in Quebec © 2023 by
 This project is accessible through Github or OSF via the ORCID account: https://orcid.org/0000-0001-6297-8176.
 
 
+-using Stats Canada data geo_recensement_2021_QC... for polygon shapes of regions used in analysis
 
 
 
